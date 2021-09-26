@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = polmatmira@gmail.com
+	name = Julia Chirkova
